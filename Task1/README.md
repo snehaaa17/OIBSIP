@@ -12,5 +12,5 @@ To perform Exploratory Data Analysis (EDA) on retail sales data and identify use
 - Jupyter Notebook
 
 ## Files
-- `Sneha_1.ipynb` - EDA notebook
+- `SnehaChorage_Task1.ipynb` - EDA notebook
 - `retail_sales_dataset.csv` - Dataset used for analysis
