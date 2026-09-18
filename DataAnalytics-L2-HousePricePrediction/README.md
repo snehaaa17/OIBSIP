@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This project focuses on predicting house prices using Machine Learning techniques. The Ames Housing dataset is used to analyze different property features and build regression models for predicting `SalePrice`.
+This project focuses on predicting house prices using Machine Learning techniques. Housing dataset is used to analyze different property features and build regression models for predicting `SalePrice`.
 
 The project covers the complete workflow from data exploration and preprocessing to model training, evaluation, and interpretation.
 
@@ -14,7 +14,7 @@ The main objective is to build and evaluate a Linear Regression model for predic
 
 ## Dataset
 
-The project uses the Ames Housing dataset from the Kaggle House Prices competition.
+The project uses the Housing dataset from the Kaggle House Prices competition.
 
 - Dataset file: `train.csv`
 - Target variable: `SalePrice`
@@ -56,7 +56,7 @@ The project uses the Ames Housing dataset from the Kaggle House Prices competiti
 ## Model Performance
 
 | Model | RMSE | R² Score |
-|---|---:|---:|
+
 | Linear Regression | 31,080.81 | 0.8741 |
 | Ridge Regression | 34,372.94 | 0.8460 |
 | Lasso Regression | 43,911.84 | 0.7486 |
@@ -78,6 +78,5 @@ The project uses the Ames Housing dataset from the Kaggle House Prices competiti
 - `SnehaChorage_Task2.ipynb` – Complete Jupyter Notebook containing the analysis and machine learning implementation.
 - `train.csv` – Dataset used for training and evaluation.
 
-## Conclusion
 
 This project provided an end-to-end understanding of house price prediction using regression techniques. Linear Regression, Ridge Regression, and Lasso Regression were implemented and evaluated using standard regression metrics.
