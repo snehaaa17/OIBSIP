@@ -252,6 +252,6 @@ The following tools and libraries were used:
 DataAnalytics-L2-UnveilingAndroidAppMarket/
 │
 ├── README.md
-├── Google_Play_Store_Analysis_Task3.ipynb
+├── SnehaChorage_Task3.ipynb
 ├── googleplaystore.csv
 └── googleplaystore_user_reviews.csv
